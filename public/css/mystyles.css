@@ -1,0 +1,55 @@
+body {
+  background-color: #eeeeee;
+  margin: 0px;
+}
+h1{
+	 text-decoration: none;
+	 color: #000000;
+}
+.list-st{
+	background-color: #F1F1F1;
+	
+}
+.cat-p-items{
+	color: #000000;
+	display: block;
+    text-align: center;
+    margin: 0px;
+}
+.name-p-svg{
+	color: #000000;
+	display: block;
+    text-align: center;
+    margin: 0px;
+    font-size: 10pt;
+}
+.svg_img{
+	width: 140px;
+	height: 140px;
+}
+.bg-color{
+	background-color: #e8e8e8;
+}
+.verti-margin-top{
+	margin-top: 20px;
+}
+.verti-margin-basic-top{
+	margin-top: 10px;
+}
+.horiz-margin-left{
+	margin-left: 20px;
+}
+.horiz-margin-basic-left{
+	margin-left: 10px;
+}
+.horiz-margin-btn{
+	margin-left: 8px;
+	margin-right: 8px;
+}
+.basic-padding{
+	padding: 10px;
+}
+li:hover {
+  color: #f3f3f3;
+  background-color: #e8e8e8;
+}
